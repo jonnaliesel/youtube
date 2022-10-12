@@ -1,3 +1,7 @@
+"""
+Ilustration of nested for loops
+"""
+
 for i in range(1,11):
     print('{:<3}|'.format(i), end="")
 
