@@ -1,5 +1,8 @@
 """
 Tutorial: https://www.youtube.com/watch?v=-LsuiVGO-88&list=TLPQMDMxMDIwMjIPzkQwxDNm1Q&index=4
+Requirements:
+    numpy==1.23.3
+    opencv-python==4.6.0.66
 """
 
 import numpy as np
