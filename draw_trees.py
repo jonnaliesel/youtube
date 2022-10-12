@@ -1,3 +1,7 @@
+"""
+Tutorial: https://www.youtube.com/watch?v=-LsuiVGO-88&list=TLPQMDMxMDIwMjIPzkQwxDNm1Q&index=4
+"""
+
 import numpy as np
 import cv2 as cv
 import random
